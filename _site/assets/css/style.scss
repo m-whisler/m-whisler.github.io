@@ -1,0 +1,91 @@
+.social-media-list {
+  list-style: none;
+  margin-left: 0;
+}
+
+.social-links {
+  @include relative-font-size(0.9375);
+  color: $brand-color;
+}
+
+.social-media-list {
+  display: table;
+  margin: 0 auto;
+  li {
+    float: left;
+    margin: 5px 10px 5px 0;
+    &:last-of-type { margin-right: 0 }
+    a {
+      display: block;
+      padding: $spacing-unit / 4;
+      border: 1px solid $border-color-01;
+      &:hover { border-color: $border-color-02 }
+    }
+  }
+}
+
+/**
+ * Pagination navbar
+ */
+ .pagination {
+  margin-bottom: $spacing-unit;
+  @extend .social-media-list;
+  li {
+    a, div {
+      min-width: 41px;
+      text-align: center;
+      box-sizing: border-box;
+    }
+    div {
+      display: block;
+      padding: $spacing-unit / 4;
+      border: 1px solid transparent;
+  
+      &.pager-edge {
+        color: $border-color-01;
+        border: 1px dashed;
+      }
+    }
+  }
+}
+
+/**
+ * Links
+ */
+ a {
+  color: $link-base-color;
+  text-decoration: none;
+  
+  &:visited {
+    color: $link-visited-color;
+  }
+  
+  &:hover {
+    color: $link-hover-color;
+    text-decoration: underline;
+  }
+  
+  .social-media-list &:hover {
+    text-decoration: none;
+  
+    .username {
+      text-decoration: underline;
+    }
+  }
+}
+
+/**
+ * Icons
+ */
+.grey {
+  color: #828282;
+}
+  
+.svg-icon {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  fill: currentColor;
+  padding: 5px 5px 2px 0px;
+  vertical-align: text-bottom;
+}

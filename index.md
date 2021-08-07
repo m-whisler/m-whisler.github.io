@@ -6,12 +6,12 @@ layout: default
 ---
 
 # Welcome
-I am a dog loving, family oriented, travel junky. I discovered my passion for software craftsmanship in college and have enjoyed building a career around it ever since. Beyond my day job, you may see me with my dogs Deke (black labrador - looking for his next ball) & Arya (black german shepherd - following her best friend Deke) or on my next adventure with family & friends.
+I am a nerdy, dog loving, family oriented, travel buff. I discovered my passion for software craftsmanship in college and have enjoyed building a career around it ever since. Beyond my geeky day job, you may see me with my dogs Deke (black labrador - looking for his next ball to retrieve) & Arya (black german shepherd - following her best friend Deke) or on my next adventure with family & friends.
 
-## Goals & Passions
+## Passions & Goals
 I have a passion for technology and the software within it. I am fueled by the idea of making a better tomorrow with clean, maintanable software through collaboration with others.
 
-My goal is to one day become a technical leader leading decisions for products in demand by millions of users. How am I getting there? By surrounding myself with exceptional technical leaders & subject matter experts. I enjoy the process of learning as much as I can from them and continually perfecting the craft. 
+My goal is to one day become a leading contributor for products in demand by millions of users. How am I getting there? By surrounding myself with exceptional people, leaders, & subject matter experts. I enjoy the process of learning as much as I can from them and continually perfecting the craft. 
 
 # Software Craftsmanship Manifesto
 Let's pledge to raise the bar together! Join the journey with me by signing the [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/){:target="_blank"}.
